@@ -5,5 +5,6 @@ public class GitA {
 		System.out.println("This is GitA!");
 		System.out.println("check for connecting");
 		System.out.println("generate devB");
+		System.out.println("Modify A in devB");
 	}
 }
