@@ -6,5 +6,7 @@ public class GitA {
 		System.out.println("check for connecting");
 		System.out.println("generate devB");
 		System.out.println("Modify A in devB");
+		System.out.println("Modify A in master");
+		System.out.println("Generate devB, devC and Modify A in master");
 	}
 }
