@@ -5,5 +5,6 @@ public class GitC {
 		System.out.println("This is GitC!");
 		System.out.println("generate devC");
 		System.out.println("Modify C in devC");
+		System.out.println("Modify C in devC - 2"); // Modify C in devC - 2
 	}
 }
